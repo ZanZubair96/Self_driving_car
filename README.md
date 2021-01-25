@@ -8,4 +8,4 @@
  
  Step-3: Run it
  
- #NOTE: If you want to can change the track
+ #NOTE: If you want, you can change the track
